@@ -154,7 +154,6 @@ DEPENDENCIES
   rails (~> 6.1.4)
   spring
   sqlite3 (~> 1.4)
-  tzinfo-data
 
 RUBY VERSION
    ruby 2.7.2p137
